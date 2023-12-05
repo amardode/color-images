@@ -1,0 +1,25 @@
+.color{
+ height:200px;
+ width:200px;   
+}
+.name{
+    font-weight: normal;
+}
+#first{
+    color: blue;
+
+}
+#second{
+    color:chocolate
+}
+#Third{
+    color:red;
+}
+#fourth{
+    color:green;
+
+}
+
+#fifth{
+    color:yellow;
+}
